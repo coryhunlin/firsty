@@ -1,2 +1,2 @@
-# firsty
+# first
 first repository
